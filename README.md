@@ -2,9 +2,9 @@
 - 👀 I’m interested in learning how to code
 - 🌱 I’m currently learning pygame
 - 💞️ I’m looking to collaborate on small game projects
-- 📫 How to reach me whatsapp +2347060906106
+- 📫 How to reach me whatsapp +2347060906106, Facebook: Moses Mathias 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I love GOD and Rap
+- ⚡ Fun fact: I love GOD and Rap and programming
 
 <!---
 M-ally257/M-ally257 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
